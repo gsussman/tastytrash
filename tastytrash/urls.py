@@ -20,4 +20,5 @@ from signup import views
 urlpatterns = [
     path('admin/', admin.site.urls),
     path('', views.homepage, name='homepage'),
+    path('test', views.test, name='test'),
 ]
