@@ -25,7 +25,7 @@ SECRET_KEY = 'qa%rrbld%_8xo0(ps!a@i*40m2z^hxr9+=93nj8^9jgvc4!=er'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['157.245.127.74', 'localhost']
+ALLOWED_HOSTS = ['157.245.127.74', 'localhost', 'tastytrash.com']
 
 
 # Application definition
